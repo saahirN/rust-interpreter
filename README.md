@@ -1,2 +1,2 @@
 # rust-interpreter
-A Rust Interpreter
+An interpreter written in Rust
